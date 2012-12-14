@@ -1,0 +1,74 @@
+/*-----------------------------------------------------------------------------------------------------------
+  $Archive: /SQL.root/SQL/Demographics.Tables.Forecasts/ForecastedImmigration.sql $
+  $Revision: 2 $
+  $Date: 12/21/06 12:57 $
+  $Author: mls $
+
+  Table         : Demographics.ForecastedImmigration
+  
+  Purpose       : Forecasted immigration for exogenous specification in projections
+
+-----------------------------------------------------------------------------------------------------------*/
+IF OBJECT_ID('Demographics.ForecastedImmigration', 'U') IS NOT NULL
+DROP TABLE Demographics.ForecastedImmigration
+GO
+
+CREATE TABLE Demographics.ForecastedImmigration (
+  
+  EstimateID bigint identity(1,1) not null,
+  ForecastID smallint not null,
+  OriginID tinyint not null,
+  GenderID tinyint not null,
+  Age tinyint not null,
+  [Year] smallint not null,
+  Estimate float not null,
+  
+  CONSTRAINT PK_ForecastedImmigration PRIMARY KEY (EstimateID),
+  CONSTRAINT IX_ForecastedImmigration_Unique UNIQUE ([Year], ForecastID, OriginID, GenderID, Age),
+  
+  CONSTRAINT FK_ForecastedImmigration_Forecast FOREIGN KEY (ForecastID)
+  REFERENCES Demographics.Forecast (ForecastID)
+  ON DELETE CASCADE,
+  
+  CONSTRAINT FK_ForecastedImmigration_Origin FOREIGN KEY (OriginID)
+  REFERENCES Demographics.Origin (OriginID),
+  
+  CONSTRAINT FK_ForecastedImmigration_Gender FOREIGN KEY (GenderID)
+  REFERENCES dbo.Gender (GenderID)
+
+)
+GO
+
+
+EXECUTE sp_addextendedproperty
+N'MS_Description', N'Forecasted immigration for exogenous specification in projections.',
+N'SCHEMA', N'Demographics', N'TABLE', N'ForecastedImmigration'
+
+EXECUTE sp_addextendedproperty
+N'MS_Description', N'Surrogate primary key (identity column).',
+N'SCHEMA', N'Demographics', N'TABLE', N'ForecastedImmigration', N'COLUMN', N'EstimateID'
+
+EXECUTE sp_addextendedproperty
+N'MS_Description', N'Foreign key for forecast information.',
+N'SCHEMA', N'Demographics', N'TABLE', N'ForecastedImmigration', N'COLUMN', N'ForecastID'
+
+EXECUTE sp_addextendedproperty
+N'MS_Description', N'Foreign key for origin.',
+N'SCHEMA', N'Demographics', N'TABLE', N'ForecastedImmigration', N'COLUMN', N'OriginID'
+
+EXECUTE sp_addextendedproperty
+N'MS_Description', N'Foreign key for gender.',
+N'SCHEMA', N'Demographics', N'TABLE', N'ForecastedImmigration', N'COLUMN', N'GenderID'
+
+EXECUTE sp_addextendedproperty
+N'MS_Description', N'Age.',
+N'SCHEMA', N'Demographics', N'TABLE', N'ForecastedImmigration', N'COLUMN', N'Age'
+
+EXECUTE sp_addextendedproperty
+N'MS_Description', N'Year of forecast.',
+N'SCHEMA', N'Demographics', N'TABLE', N'ForecastedImmigration', N'COLUMN', N'Year'
+
+EXECUTE sp_addextendedproperty
+N'MS_Description', N'Forecasted immigration level or frequency.',
+N'SCHEMA', N'Demographics', N'TABLE', N'ForecastedImmigration', N'COLUMN', N'Estimate'
+GO

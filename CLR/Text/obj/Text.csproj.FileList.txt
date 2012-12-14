@@ -1,0 +1,8 @@
+bin\Debug\ETL.Text.dll
+bin\Debug\ETL.Text.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ETL.Text.dll
+obj\Debug\ETL.Text.pdb
+bin\Release\ETL.Text.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ETL.Text.dll

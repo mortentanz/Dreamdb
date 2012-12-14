@@ -1,0 +1,15 @@
+.\bin\Release\ForEachDirectoryCS.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ForEachDirectory.csproj.GenerateResource.Cache
+obj\Release\Dreamdb.Dts.ForEachDirectoryUI.resources
+obj\Release\Dreamdb.Dts.Properties.Resources.resources
+C:\Program Files\Microsoft SQL Server\90\DTS\ForEachEnumerators\ForEachDirectory.dll
+obj\Release\ForEachDirectory.dll
+bin\Debug\ForEachDirectory.dll
+bin\Debug\ForEachDirectory.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Dreamdb.Dts.ForEachDirectoryUI.resources
+obj\Debug\Dreamdb.Dts.Properties.Resources.resources
+obj\Debug\ForEachDirectory.csproj.GenerateResource.Cache
+obj\Debug\ForEachDirectory.dll
+obj\Debug\ForEachDirectory.pdb

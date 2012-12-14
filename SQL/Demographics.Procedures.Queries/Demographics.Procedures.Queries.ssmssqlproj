@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Demographics.Procedures.Queries">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0">
+      <Items>
+        <FileNode Name="uspGetDSBirths.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSBirths.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSBoyShare.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSBoyShare.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSChildOriginFrequency.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSChildOriginFrequency.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSChildren.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSChildren.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSDeaths.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSDeaths.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSDurationFrequency.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSDurationFrequency.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSEmigrants.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSEmigrants.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSEmigration.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSEmigration.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSFertility.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSFertility.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSImmigrants.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSImmigrants.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSImmigration.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSImmigration.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSMortality.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSMortality.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSMotherAgeFrequency.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSMotherAgeFrequency.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSMothers.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSMothers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSNaturalization.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSNaturalization.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSNaturalizationMean.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSNaturalizationMean.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSPopulation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSPopulation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetDSPopulationFromFlows.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetDSPopulationFromFlows.sql</FullPath>
+        </FileNode>
+        <FileNode Name="uspGetEstimatedMortality.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>uspGetEstimatedMortality.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

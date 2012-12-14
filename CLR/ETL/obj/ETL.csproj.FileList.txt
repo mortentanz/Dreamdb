@@ -1,0 +1,11 @@
+bin\Debug\ETL.Programmability.dll
+bin\Debug\ETL.Programmability.pdb
+bin\Debug\ETL.Text.dll
+bin\Debug\ETL.Text.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ETL.Programmability.dll
+obj\Debug\ETL.Programmability.pdb
+bin\Release\ETL.Programmability.dll
+bin\Release\ETL.Text.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ETL.Programmability.dll

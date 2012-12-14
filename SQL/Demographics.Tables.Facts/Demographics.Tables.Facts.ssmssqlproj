@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Demographics.Tables.Facts">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0">
+      <Items>
+        <FileNode Name="DSBirths.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSBirths.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSChildren.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSChildren.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSDeaths.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSDeaths.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSEmigrants.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSEmigrants.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSImmigrants.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSImmigrants.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSMothers.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSMothers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSParents.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSParents.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSPermits.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSPermits.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSPopulation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSPopulation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="HMDLife.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>HMDLife.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

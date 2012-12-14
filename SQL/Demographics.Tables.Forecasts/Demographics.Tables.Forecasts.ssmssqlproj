@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Demographics.Tables.Forecasts">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0">
+      <Items>
+        <FileNode Name="ForecastedBirthNaturalization.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ForecastedBirthNaturalization.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ForecastedBirthOrigin.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ForecastedBirthOrigin.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ForecastedEmigration.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ForecastedEmigration.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ForecastedFertility.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ForecastedFertility.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ForecastedImmigration.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ForecastedImmigration.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ForecastedMortality.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ForecastedMortality.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ForecastedNaturalization.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ForecastedNaturalization.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

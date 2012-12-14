@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBO", "DBO\DBO.csproj", "{A66F5C2F-D4DC-4957-A9FD-45D5AF4B2A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL", "ETL\ETL.csproj", "{A9F1AA16-BC1B-4FAC-85DE-F0EDA9661F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text", "Text\Text.csproj", "{A3C58D18-F361-49C7-8837-1F8946A98CD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demographics", "Demographics\Demographics.csproj", "{C9368FDA-43E0-41AC-844B-5D36EAD0D356}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 5
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DBO\\DBO.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = DBO\\
+		SccProjectUniqueName2 = Demographics\\Demographics.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = Demographics\\
+		SccProjectUniqueName3 = ETL\\ETL.csproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = ETL\\
+		SccProjectUniqueName4 = Text\\Text.csproj
+		SccLocalPath4 = .
+		SccProjectFilePathRelativizedFromConnection4 = Text\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66F5C2F-D4DC-4957-A9FD-45D5AF4B2A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66F5C2F-D4DC-4957-A9FD-45D5AF4B2A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66F5C2F-D4DC-4957-A9FD-45D5AF4B2A87}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A66F5C2F-D4DC-4957-A9FD-45D5AF4B2A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66F5C2F-D4DC-4957-A9FD-45D5AF4B2A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66F5C2F-D4DC-4957-A9FD-45D5AF4B2A87}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A9F1AA16-BC1B-4FAC-85DE-F0EDA9661F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F1AA16-BC1B-4FAC-85DE-F0EDA9661F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F1AA16-BC1B-4FAC-85DE-F0EDA9661F78}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A9F1AA16-BC1B-4FAC-85DE-F0EDA9661F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F1AA16-BC1B-4FAC-85DE-F0EDA9661F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F1AA16-BC1B-4FAC-85DE-F0EDA9661F78}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A3C58D18-F361-49C7-8837-1F8946A98CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C58D18-F361-49C7-8837-1F8946A98CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C58D18-F361-49C7-8837-1F8946A98CD8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A3C58D18-F361-49C7-8837-1F8946A98CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C58D18-F361-49C7-8837-1F8946A98CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C58D18-F361-49C7-8837-1F8946A98CD8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C9368FDA-43E0-41AC-844B-5D36EAD0D356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9368FDA-43E0-41AC-844B-5D36EAD0D356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9368FDA-43E0-41AC-844B-5D36EAD0D356}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C9368FDA-43E0-41AC-844B-5D36EAD0D356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9368FDA-43E0-41AC-844B-5D36EAD0D356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9368FDA-43E0-41AC-844B-5D36EAD0D356}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

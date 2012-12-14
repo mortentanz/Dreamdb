@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Database", "Database\Database.ssmssqlproj", "{B54B37CB-16DD-4739-A19C-54C75E3EF3E5}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DBO.Procedures", "DBO.Procedures\DBO.Procedures.ssmssqlproj", "{82981175-AEBC-4633-9471-EE8C40891773}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DBO.Tables.Dimensions", "DBO.Tables.Dimensions\DBO.Tables.Dimensions.ssmssqlproj", "{D59DD3D6-D985-4025-839D-576E7EBF9CC1}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demographics.Functions", "Demographics.Functions\Demographics.Functions.ssmssqlproj", "{B2206E67-1C41-4E4E-B438-FF973ED2F508}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demographics.Procedures.Catalog", "Demographics.Procedures.Catalog\Demographics.Procedures.Catalog.ssmssqlproj", "{DA06AB71-FBD9-420A-A14C-CFD824E20D74}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demographics.Procedures.Queries", "Demographics.Procedures.Queries\Demographics.Procedures.Queries.ssmssqlproj", "{02369E89-BC94-4AB3-B681-0F5395BEEC81}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demographics.Procedures.Reports", "Demographics.Procedures.Reports\Demographics.Procedures.Reports.ssmssqlproj", "{E6111FA1-D641-48C9-AEFC-6EED25DFBCE8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demographics.Tables.Catalog", "Demographics.Tables.Catalog\Demographics.Tables.Catalog.ssmssqlproj", "{927C62FA-D48D-4C3D-895F-8558229A52B8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demographics.Tables.Dimensions", "Demographics.Tables.Dimensions\Demographics.Tables.Dimensions.ssmssqlproj", "{6A607272-A42D-4340-BE1B-91C281446B2C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demographics.Tables.Facts", "Demographics.Tables.Facts\Demographics.Tables.Facts.ssmssqlproj", "{ECD57803-3BB1-4792-A544-75BA5BA57BC1}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demographics.Tables.Forecasts", "Demographics.Tables.Forecasts\Demographics.Tables.Forecasts.ssmssqlproj", "{836BA9FE-3697-4227-9FB4-A3E6F3B989BF}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demographics.Tables.Estimates", "Demographics.Tables.Estimates\Demographics.Tables.Estimates.ssmssqlproj", "{4279CA92-28CB-415B-8362-F54B1E4594BB}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demographics.Tables.Results", "Demographics.Tables.Results\Demographics.Tables.Results.ssmssqlproj", "{C186E1D1-65D5-4955-9B4A-0ACC6A45055F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ETL.Tables.Dimensions", "ETL.Tables.Dimensions\ETL.Tables.Dimensions.ssmssqlproj", "{1231CABB-2E54-4A53-98BB-3ED87BA7A89F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ETL.Tables.Audits", "ETL.Tables.Audits\ETL.Tables.Audits.ssmssqlproj", "{663A75CD-6152-4DCC-B038-1799B9897818}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ETL.Procedures", "ETL.Procedures\ETL.Procedures.ssmssqlproj", "{F8956B60-0408-45C3-8D7E-6B6B9FCA6637}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Socioeconomics.Procedures.Catalog", "Socioeconomics.Procedures.Catalog\Socioeconomics.Procedures.Catalog.ssmssqlproj", "{7A281E05-7693-4836-9605-0082A20DC53D}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Socioeconomics.Tables.Dimensions", "Socioeconomics.Tables.Dimensions\Socioeconomics.Tables.Dimensions.ssmssqlproj", "{B0389A99-6A95-4A99-A122-BE8675AA3D91}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Socioeconomics.Views", "Socioeconomics.Views\Socioeconomics.Views.ssmssqlproj", "{E0F09C74-8F9A-4C0E-8DE8-F14F018C0F5B}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Socioeconomics.Tables.Catalog", "Socioeconomics.Tables.Catalog\Socioeconomics.Tables.Catalog.ssmssqlproj", "{5D5BDEFA-F8F4-439A-83C0-6B8F678ACF10}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Socioeconomics.Procedures.Reports", "Socioeconomics.Procedures.Reports\Socioeconomics.Procedures.Reports.ssmssqlproj", "{AB903ED2-7E34-44CB-AD19-1AFFA6089E84}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DBO.Tables.Logs", "DBO.Tables.Logs\DBO.Tables.Logs.ssmssqlproj", "{F4617F24-940D-4BF0-83A8-AD9CAC69E8C4}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demographics.Views", "Demographics.Views\Demographics.Views.ssmssqlproj", "{F30D8BBB-EF7B-479B-AB53-660248856896}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Socioeconomics.Tables.Facts", "Socioeconomics.Tables.Facts\Socioeconomics.Tables.Facts.ssmssqlproj", "{F1BBC1DB-EA90-478C-88E1-8CB01E1CE2B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54B37CB-16DD-4739-A19C-54C75E3EF3E5}.Default|Default.ActiveCfg = Default
+		{82981175-AEBC-4633-9471-EE8C40891773}.Default|Default.ActiveCfg = Default
+		{D59DD3D6-D985-4025-839D-576E7EBF9CC1}.Default|Default.ActiveCfg = Default
+		{B2206E67-1C41-4E4E-B438-FF973ED2F508}.Default|Default.ActiveCfg = Default
+		{DA06AB71-FBD9-420A-A14C-CFD824E20D74}.Default|Default.ActiveCfg = Default
+		{02369E89-BC94-4AB3-B681-0F5395BEEC81}.Default|Default.ActiveCfg = Default
+		{E6111FA1-D641-48C9-AEFC-6EED25DFBCE8}.Default|Default.ActiveCfg = Default
+		{927C62FA-D48D-4C3D-895F-8558229A52B8}.Default|Default.ActiveCfg = Default
+		{6A607272-A42D-4340-BE1B-91C281446B2C}.Default|Default.ActiveCfg = Default
+		{ECD57803-3BB1-4792-A544-75BA5BA57BC1}.Default|Default.ActiveCfg = Default
+		{836BA9FE-3697-4227-9FB4-A3E6F3B989BF}.Default|Default.ActiveCfg = Default
+		{4279CA92-28CB-415B-8362-F54B1E4594BB}.Default|Default.ActiveCfg = Default
+		{C186E1D1-65D5-4955-9B4A-0ACC6A45055F}.Default|Default.ActiveCfg = Default
+		{1231CABB-2E54-4A53-98BB-3ED87BA7A89F}.Default|Default.ActiveCfg = Default
+		{663A75CD-6152-4DCC-B038-1799B9897818}.Default|Default.ActiveCfg = Default
+		{F8956B60-0408-45C3-8D7E-6B6B9FCA6637}.Default|Default.ActiveCfg = Default
+		{7A281E05-7693-4836-9605-0082A20DC53D}.Default|Default.ActiveCfg = Default
+		{B0389A99-6A95-4A99-A122-BE8675AA3D91}.Default|Default.ActiveCfg = Default
+		{E0F09C74-8F9A-4C0E-8DE8-F14F018C0F5B}.Default|Default.ActiveCfg = Default
+		{5D5BDEFA-F8F4-439A-83C0-6B8F678ACF10}.Default|Default.ActiveCfg = Default
+		{AB903ED2-7E34-44CB-AD19-1AFFA6089E84}.Default|Default.ActiveCfg = Default
+		{F4617F24-940D-4BF0-83A8-AD9CAC69E8C4}.Default|Default.ActiveCfg = Default
+		{F30D8BBB-EF7B-479B-AB53-660248856896}.Default|Default.ActiveCfg = Default
+		{F1BBC1DB-EA90-478C-88E1-8CB01E1CE2B6}.Default|Default.ActiveCfg = Default
+		{00000000-0000-0000-0000-000000000000}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

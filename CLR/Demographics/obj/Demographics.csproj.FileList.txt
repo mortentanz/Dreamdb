@@ -1,0 +1,8 @@
+bin\Debug\Demographics.Programmability.dll
+bin\Debug\Demographics.Programmability.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Demographics.Programmability.dll
+obj\Debug\Demographics.Programmability.pdb
+bin\Release\Demographics.Programmability.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Demographics.Programmability.dll

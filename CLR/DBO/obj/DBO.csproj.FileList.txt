@@ -1,0 +1,8 @@
+bin\Debug\DBO.Programmability.dll
+bin\Debug\DBO.Programmability.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DBO.Programmability.dll
+obj\Debug\DBO.Programmability.pdb
+bin\Release\DBO.Programmability.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DBO.Programmability.dll

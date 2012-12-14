@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ETL.Tables.Dimensions">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0">
+      <Items>
+        <FileNode Name="DSCitizenship.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSCitizenship.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSCountry.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSCountry.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSDevelopment.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSDevelopment.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSDimension.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSDimension.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSDuration.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSDuration.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSEducation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSEducation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSHemisphere.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSHemisphere.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSOrigin.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSOrigin.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSOriginType.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSOriginType.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSPermit.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSPermit.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSRegion.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSRegion.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSRegistration.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSRegistration.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DSStatus.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DSStatus.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

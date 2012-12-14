@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Database">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="ZANZIBAR:ZANZIBAR\Tanz">
+          <Created>2009-06-26T23:07:12.262004+02:00</Created>
+          <Type>SQL</Type>
+          <Server>ZANZIBAR</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Build Local.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ZANZIBAR:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ZANZIBAR</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Build Local.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Build Server.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ZANZIBAR:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ZANZIBAR</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Build Server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create CLR Objects.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ZANZIBAR:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ZANZIBAR</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create CLR Objects.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ZANZIBAR:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ZANZIBAR</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Functions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ZANZIBAR:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ZANZIBAR</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Logins.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Create Logins.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Messages.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ZANZIBAR:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ZANZIBAR</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Messages.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Permissions.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Create Permissions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Procedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ZANZIBAR:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ZANZIBAR</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Schemas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Create Schemas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Tables.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Create Tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Triggers.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Create Triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Views.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Create Views.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+  <SccProjectName />
+  <SccAuxPath />
+  <SccLocalPath />
+  <SccProvider />
+</SqlWorkbenchSqlProject>

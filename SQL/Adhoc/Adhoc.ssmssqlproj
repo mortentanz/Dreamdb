@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Adhoc">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2">
+      <Items>
+        <ConnectionNode Name="FMDREAM1:FM\mls">
+          <Created>2006-12-19T09:35:06.2687276+01:00</Created>
+          <Type>SQL</Type>
+          <Server>FMDREAM1</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="DEP0358:FM\mls">
+          <Created>2006-12-19T10:42:34.8466579+01:00</Created>
+          <Type>SQL</Type>
+          <Server>DEP0358</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0">
+      <Items>
+        <FileNode Name="Insert Immigration Estimates.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FMDREAM1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FMDREAM1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert Immigration Estimates.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert Forecasts.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FMDREAM1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FMDREAM1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert Forecasts.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert Mortality Estimates.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FMDREAM1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FMDREAM1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert Mortality Estimates.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert Fertility Estimates.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FMDREAM1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FMDREAM1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert Fertility Estimates.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3">
+      <Items />
+    </LogicalFolder>
+  </Items>
+  <SccProjectName>"$/SQL.root/SQL", BUAAAAAA</SccProjectName>
+  <SccAuxPath />
+  <SccLocalPath>..</SccLocalPath>
+  <SccProvider>MSSCCI:Microsoft Visual SourceSafe</SccProvider>
+</SqlWorkbenchSqlProject>
